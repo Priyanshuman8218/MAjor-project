@@ -1,5 +1,5 @@
 .horizontal-timeline .items {
-    border-top: 3px solid #e9ecef;
+    border-top: 3px solid #b5cfe9;
   }
   
   .horizontal-timeline .items .items-list {
@@ -56,7 +56,7 @@
 :root {
     /* #1BFFFF */
     --main-cyan: #1BFFFF;
-    --main-blue: #2E3192;
+    --main-blue: #f08731;
     --main-grey: #ccc;
     --sub-grey: #d9d9d9;
 }
